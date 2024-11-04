@@ -1,0 +1,8 @@
+main{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(../imagem/istockphoto-480652712-1024x1024.jpg);
+
+}
